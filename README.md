@@ -24,7 +24,7 @@
 
 ##### Measures how much data is missing or incomplete
 ##### Column-Wise Missing Rate (to detect problematic features)
-###### Row-Wise Missing Rate(to detect unusable samples)
+##### Row-Wise Missing Rate(to detect unusable samples)
 
 
 
@@ -53,8 +53,7 @@
 ##### Data Drift (Compare distribution of training vs. new data)
 
 
-#### 6. Feature Correlation & Redundancy
-###### Measures if some features are redundant or unnecessary
+#### 6. Feature Correlation & Redundancy: Measures if some features are redundant or unnecessary
 ##### High Correlation Feature Pairs (Remove redundant columns)
 ##### Mutual Information Score (Detect weakly related features)
 
