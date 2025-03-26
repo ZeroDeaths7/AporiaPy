@@ -1,1 +1,1 @@
-#houses the model that is used in detect_class_imbalance(data) function
+#houses the model that is used in detect_class_imbalance(data) function  - removing bias towards majority class 

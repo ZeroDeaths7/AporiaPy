@@ -1,4 +1,3 @@
-#some confusing functionality clashing with metrics.py (figure out later)
 
 #handle_missing_values(data)
 

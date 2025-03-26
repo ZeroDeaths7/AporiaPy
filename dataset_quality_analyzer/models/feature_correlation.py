@@ -1,1 +1,1 @@
-#houses the model that is used in detect_feature_correlation(data) function
+#houses the model that is used in detect_feature_correlation(data) function  - checking redundancy of features 
