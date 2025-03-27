@@ -1,13 +1,6 @@
 # AporiaPy
 
-###### Work in progress gahdam
-
-
-
-
-### for bismush and  amov's reference for now
-
-
+#WIP Workflow
 
 #### Ive divided the module into 3 main functions: 
 
