@@ -6,8 +6,13 @@
 
 # detect_outliers(data, method='IQR') → Hybrid
 
-# detect_class_imbalance(data) → ML-Based
+# detect_class_imbalance(data) → Rule Based
 
 # detect_feature_correlation(data) → ML-Based
 
 #eval_label_quality(data) → ML-Based
+
+
+
+
+
